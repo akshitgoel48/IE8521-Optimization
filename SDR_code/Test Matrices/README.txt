@@ -1,0 +1,1 @@
+This file contains the test matrices used for ``Semidefinite Programming and Nash Equilibria in Bimatrix Games'' for use in MATLAB. Each file contains two variables: As and Bs. In each file As(:,:,i) and Bs(:,:,i) correspond to the payoff matrices used in test instance i.
